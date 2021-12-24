@@ -1,0 +1,15 @@
+ul{
+    list-style: none;
+    border : 1px solid black;
+}
+
+li{
+    background-color: lightblue;
+    padding: 20px;
+    margin : 20px;
+}
+
+li p{
+    font-size: 0.8rem;
+   
+}
